@@ -193,7 +193,7 @@ header * {
 
 /* offer start */
 #offers {
-  height: 80vh;
+  height: 85vh;
   display: flex;
   justify-content: center;
   background: url(./img/offer-background.jpg) center center/cover fixed no-repeat;
